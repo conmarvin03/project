@@ -1,0 +1,16 @@
+<style>
+        #first
+        {
+            background-color: red;
+        }
+        #firstdiv
+        {
+            font-size: 360%;
+            height: 500px;
+            background-color: azure;
+        }
+        #seconddiv{
+            height: 500px;
+            background-color: black;
+        }
+    </style>
